@@ -58,6 +58,13 @@ Here is exactly how I solved it in **6 guesses**:
 
 ---
 
+## 📸 Solution Screenshot
+
+Below is the successful terminal output showing the guessing sequence and the flag:
+
+![Binary Search Terminal Flag Output](./images/binary_search.png)
+
+---
 ## 🚩 Flag
 
 ```text
