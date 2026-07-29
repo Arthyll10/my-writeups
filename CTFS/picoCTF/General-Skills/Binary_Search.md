@@ -4,6 +4,7 @@
 - **Difficulty:** Easy
 - **Author:** Jeffery John
 - **Event:** picoCTF 2024
+- **Challenge Link:** [CyLab Academy / picoCTF Challenge](https://learn.cylabacademy.org/library/442?page=1)
 - **Flag:** `picoCTF{g00d_gu355_1597707f}`
 
 ---
